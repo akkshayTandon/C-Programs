@@ -10,11 +10,11 @@
 - [Binary Tree](https://github.com/akkshayTandon/C-Programs/blob/main/Programs/binary-tree.c)
 - [Binary Search Tree](https://github.com/akkshayTandon/C-Programs/blob/main/Programs/binary-search-tree.c)
 - Linked List
-    > . [linked-list]()
+    > . [linked-list](https://github.com/akkshayTandon/C-Programs/blob/main/Programs/linked-list.c)
 
-    > . [singular-linked-list]()
+    > . [singular-linked-list](https://github.com/akkshayTandon/C-Programs/blob/main/Programs/singular-linked-list.c)
 
-    > . [doubly-linked-list]()
+    > . [doubly-linked-list](https://github.com/akkshayTandon/C-Programs/blob/main/Programs/doubly-linked-list.c)
 
     > . [circular-singly-linked-list](https://github.com/akkshayTandon/C-Programs/blob/main/Programs/circular-singly-linked-list.c)
 
